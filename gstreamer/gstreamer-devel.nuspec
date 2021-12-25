@@ -31,7 +31,7 @@ This package performs a "Complete" install and may contain restricted codecs or 
     </description>
 
     <dependencies>
-      <dependency id="gstreamer" version="1.18.4.20210725" />
+      <dependency id="gstreamer" version="1.18.5.20210908" />
     </dependencies>
 
   </metadata>
